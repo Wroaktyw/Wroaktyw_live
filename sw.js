@@ -1,5 +1,5 @@
 // Prosty tryb offline: aplikacja otwiera się nawet bez zasięgu na boisku.
-const CACHE = 'wroaktyw-live-v10';
+const CACHE = 'wroaktyw-live-v11';
 const FILES = [
   './', 'index.html', 'manifest.webmanifest',
   'icons/wordmark.png', 'icons/icon-180.png', 'icons/icon-192.png',
